@@ -1,2 +1,2 @@
 # hello-world-css
-Perkenalan desain dengan CSS
+Memulai desain dengan CSS
